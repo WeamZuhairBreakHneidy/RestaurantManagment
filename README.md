@@ -10,3 +10,7 @@ For Cooks: Streamlined order management for faster and more accurate meal prepar
 For Parking Employees: Manage parking and assist guests efficiently.
 For the Boss: Oversee every aspect of the restaurant, from orders to staff activities, ensuring smooth operations.
 This app revolutionizes restaurant management, enhancing efficiency and customer satisfaction for every role involved
+
+
+https://github.com/user-attachments/assets/b95ff5bb-ae81-4e05-944e-8a28a928c57d
+
